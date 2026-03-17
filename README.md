@@ -96,16 +96,19 @@ Built to feel calm, clear, and work-led.
 </div>
 
 <p align="center" style="margin-top: -40px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/tojicb-fushiguro?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse-All%20Repositories-D8E4DE?style=flat-square&logo=github&logoColor=1F2730&labelColor=6F837E" />
-  </a>
-  <a href="https://github.com/tojicb-fushiguro?tab=stars">
-    <img src="https://img.shields.io/badge/View-Starred%20Work-E7EFEA?style=flat-square&logo=github&logoColor=1F2730&labelColor=6F837E" />
-  </a>
-  <a href="https://github.com/tojicb-fushiguro?tab=followers">
-    <img src="https://img.shields.io/github/followers/tojicb-fushiguro?style=flat-square&logo=github&label=Followers&color=CFC7C8&labelColor=6F837E" />
-  </a>
+  <span style="display:inline-block; transform: translateX(120px);">
+    
+    <a href="https://github.com/tojicb-fushiguro?tab=repositories">
+      <img src="https://img.shields.io/badge/Browse-All%20Repositories-D8E4DE?style=flat-square&logo=github&logoColor=1F2730&labelColor=6F837E" />
+    </a>
+    <a href="https://github.com/tojicb-fushiguro?tab=stars">
+      <img src="https://img.shields.io/badge/View-Starred%20Work-E7EFEA?style=flat-square&logo=github&logoColor=1F2730&labelColor=6F837E" />
+    </a>
+    <a href="https://github.com/tojicb-fushiguro?tab=followers">
+      <img src="https://img.shields.io/github/followers/tojicb-fushiguro?style=flat-square&logo=github&label=Followers&color=CFC7C8&labelColor=6F837E" />
+    </a>
+
+  </span>
 </p>
 
 <br/>
