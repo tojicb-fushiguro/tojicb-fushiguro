@@ -96,7 +96,7 @@ Built to feel calm, clear, and work-led.
 </div>
 
 <p align="center" style="margin-top: -40px;">
-  <span style="display:inline-block; transform: translateX(120px);">
+  <span style="display:inline-block; margin-left: 120px;">
     
     <a href="https://github.com/tojicb-fushiguro?tab=repositories">
       <img src="https://img.shields.io/badge/Browse-All%20Repositories-D8E4DE?style=flat-square&logo=github&logoColor=1F2730&labelColor=6F837E" />
